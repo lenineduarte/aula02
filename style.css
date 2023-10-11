@@ -1,15 +1,15 @@
 /* Estilos para a página HTML */
 body {
 font-family: Arial, sans-serif;
-background-color: #f0f0;
+background-color: #008000;
 margin: 0;
 padding: 30px;
 }
 h1 {
-color: #658;
+color: #333;
 }
 p {
-color: #777;
+color: #666;
 }
 /* Estilos para a classe .destaque */.destaque {
 background-color: #ffcc00;
