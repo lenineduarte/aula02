@@ -1,7 +1,7 @@
 # aula02
 
 
-<!DOCTYPEhtml>
+<!DOCTYPE html>
 <html>
 <head>
 <title>Minha Página HTML</title>
