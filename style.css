@@ -1,14 +1,35 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Minha Página HTML</title>
-<link rel="stylesheet"type="text/css"href="estilo.css">
-</head>
-<body>
-<h1>Minha página HTML</h1>
-<p>Minha página HTML simples com um arquivo CSS externo.</p>
-<div class="destaque">
-<p> Este é um elemento com uma classe CSS aplicada.</p>
-</div>
-</body>
-</html>
+/* Estilos para a página HTML */
+
+body {
+
+font-family: Arial, sans-serif;
+
+background-color: #f0f0f0;
+
+margin: 0;
+
+padding: 20px;
+
+}
+
+h1 {
+
+color: #333;
+
+}
+
+p {
+
+color: #666;
+
+}
+
+/* Estilos para a classe .destaque */
+
+.destaque {
+
+background-color: #ffcc00;
+
+padding: 10px;
+
+}
